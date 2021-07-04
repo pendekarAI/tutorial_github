@@ -1,1 +1,2 @@
-# Halo ini adalah baris pertama
+# Ini adalah tutorial Github 
+# bagi member platinum
